@@ -1,2 +1,2 @@
-# Codeforces Favorites
+# CodeForces Favorites
 Link to Problems:
