@@ -3,7 +3,7 @@ Collection of CF problems/solutions (C++)
 
 Links to problems:
 
-Educational Round 93 D. [Colored Rectangles](https://codeforces.com/contest/1398/problem/D){:target="_blank"}
+Educational Round 93 D. [Colored Rectangles](https://codeforces.com/contest/1398/problem/D)
 
 Educational Round 84 E. [Count the Blocks](https://codeforces.com/contest/1327/problem/E)
 
