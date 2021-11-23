@@ -27,7 +27,7 @@ Educational Round 87 C2. [Not So Simple Polygon Embedding](https://codeforces.co
 
 638 D. [Phoenix and Science](https://codeforces.com/contest/1348/problem/D)
 
-658 C2 [Prefix Flip (Hard Version)](https://codeforces.com/contest/1382/problem/C2)
+658 C2 [Prefix Flip](https://codeforces.com/contest/1382/problem/C2)
 
 624 D. [Three Integers](https://codeforces.com/contest/1311/problem/D)
 
