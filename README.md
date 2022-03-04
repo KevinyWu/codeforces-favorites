@@ -1,6 +1,8 @@
 # CodeForces Favorites
 Collection of CF problems/solutions (C++)
 
+![image](https://github.com/KevinyWu/kevinywu.github.io/blob/main/images/projects/codeforces.jpg)
+
 Links to problems:
 
 Educational Round 93 D. [Colored Rectangles](https://codeforces.com/contest/1398/problem/D)
