@@ -1,7 +1,7 @@
 # CodeForces Favorites
 Collection of CF problems/solutions (C++)
 
-![image](https://github.com/KevinyWu/kevinywu.github.io/blob/main/images/projects/codeforces.jpg)
+<img src="codeforces.png" alt="codeforces" width="600"/>
 
 Links to problems:
 
