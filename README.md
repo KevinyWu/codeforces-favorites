@@ -14,6 +14,8 @@ Educational Round 84 E. [Count the Blocks](https://codeforces.com/contest/1327/p
 
 628 D. [Ehab the Xorcist](https://codeforces.com/contest/1325/problem/D)
 
+813 D. [Empty Graph](https://codeforces.com/contest/1712/problem/D)
+
 635 C. [Linova and Kingdom](https://codeforces.com/contest/1337/problem/C)
 
 548 E. [Maximum Subsequence Value](https://codeforces.com/contest/1365/problem/E)
