@@ -16,6 +16,8 @@ Educational Round 84 E. [Count the Blocks](https://codeforces.com/contest/1327/p
 
 813 D. [Empty Graph](https://codeforces.com/contest/1712/problem/D)
 
+820 F. [Kirei and the Linear Function](https://codeforces.com/contest/1729/problem/F)
+
 635 C. [Linova and Kingdom](https://codeforces.com/contest/1337/problem/C)
 
 548 E. [Maximum Subsequence Value](https://codeforces.com/contest/1365/problem/E)
